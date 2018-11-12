@@ -1,0 +1,1 @@
+对NSMutablearray的封装，使其线程安全
